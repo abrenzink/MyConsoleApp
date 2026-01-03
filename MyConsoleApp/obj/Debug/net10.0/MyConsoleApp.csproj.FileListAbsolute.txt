@@ -12,3 +12,4 @@ C:\Users\abren\OneDrive\Área de Trabalho\CSE325\MyConsoleApp\obj\Debug\net10.0\
 C:\Users\abren\OneDrive\Área de Trabalho\CSE325\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.pdb
 C:\Users\abren\OneDrive\Área de Trabalho\CSE325\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.genruntimeconfig.cache
 C:\Users\abren\OneDrive\Área de Trabalho\CSE325\MyConsoleApp\obj\Debug\net10.0\ref\MyConsoleApp.dll
+C:\Users\abren\OneDrive\Área de Trabalho\CSE325\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.sourcelink.json
